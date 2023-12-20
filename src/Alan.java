@@ -8,7 +8,7 @@ public class Alan {
     }
     public void alanhesapla(){
         double alan= pi*this.r*this.r;
-        System.out.println("dairenin alanı: "+alan);
+        System.out.println("Dairenin alanı: "+alan);
 
     }
 }
